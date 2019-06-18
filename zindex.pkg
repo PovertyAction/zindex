@@ -1,0 +1,7 @@
+v 1
+d 'zindex': Creates standardized index
+d This command creates a standardized index from a z-score of specified variables.
+d
+d Author: Caton Brewster
+f zindex.ado
+f zindex.sthlp
