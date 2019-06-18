@@ -1,0 +1,3 @@
+v 1
+d zindex
+p zindex creates a standardized index from z-scores
