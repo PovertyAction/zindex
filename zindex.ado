@@ -1,4 +1,4 @@
-*! version 1.0.2 Isabel Onate 6.10.2019
+*! version 1.0.2 Caton Brewster 6.10.2019
 
 program zindex, rclass
 	/* 
