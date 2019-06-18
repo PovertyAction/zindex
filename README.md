@@ -95,7 +95,6 @@
 <a name="authors"></a><b><u>Authors</u></b>
 <p>
     <b>Caton Brewster</b>
-    <b>Isabel Onate</b>
     <b>Codecheck: Kelsey Larson</b>
 <p>
     <b>For questions or suggestions, submit a </b>GitHub issue<b> or e-mail researchsupport@poverty-action.org.</b>
