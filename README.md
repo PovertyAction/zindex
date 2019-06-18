@@ -1,4 +1,17 @@
-# zindex
+## zindex
+
+zindex was developed by the [Global Poverty Research Lab at Northwestern University](https://poverty-research.buffett.northwestern.edu/), with support from [Innovations for Poverty Action](https://www.poverty-action.org/). 
+
+## Installation
+```Stata
+*zindex can be installed directly from Github
+net install zindex, from("https://raw.githubusercontent.com/PovertyAction/zindex/master") replace 
+
+* or using haghish's Github command
+github install PovertyAction/zindex
+```
+
+## Help File
 <pre>
 <b><u>Title</u></b>
 <p>
@@ -100,6 +113,4 @@
     <b>For questions or suggestions, submit a </b>GitHub issue<b> or e-mail researchsupport@poverty-action.org.</b>
 <p>
 </pre>
-
-zindex was developed by the [Global Poverty Research Lab at Northwestern University](https://poverty-research.buffett.northwestern.edu/), with support from [Innovations for Poverty Action](https://www.poverty-action.org/). 
 
